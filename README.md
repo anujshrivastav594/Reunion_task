@@ -4,7 +4,7 @@
 
 # step 3: open the terminal and run the command "npm install"
 
-# step 4: run wnd command in terminal "npm run dev"
+# step 4: run the command in terminal "npm run dev"
 
 # site is hosted on free online platform "render"
 
